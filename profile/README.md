@@ -1,4 +1,4 @@
-<img src="./assets/PPlogoWithTagline.png">
+![Logo](https://raw.githubusercontent.com/PorkyProductions/.github/mega/profile/assets/PPlogoWithTagline.png)
 
 # PorkyProductions
 
@@ -43,4 +43,4 @@ All repositories have the same rulebook, [The Great PorkyProductions Covenant](C
 
 Remeber, PorkyProdutions would not be who it is without **you**, our developers. If we all abide by the rules and contribute nice, we can create a better world.
 
-<img src="./assets/HedgehogIcon.png">
+![Hedgehog](https://avatars.githubusercontent.com/u/82683662?s=200&v=4)
